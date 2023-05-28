@@ -4,11 +4,25 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
+    <Color x:Key="DarkText">#E3E9EC</Color>
+    <Color x:Key="LightText">#555A60</Color>
+
+    <Color x:Key="DarkPrimary">#292D36</Color>
+    <Color x:Key="DarkSecondary">#272B33</Color>
+    
+    <Color x:Key="LightPrimary">#F2F2F2</Color>
+    <Color x:Key="LightSecondary">#F7F7F7</Color>
+
+    <Color x:Key="YellowColor">#F4AB14</Color>
+    <Color x:Key="RedColor">#D3635E</Color>
+
+    <Color x:Key="bgColor">#db3a34</Color>
+    <Color x:Key="textColor">#ffc857</Color>
     <Color x:Key="Primary">#512BD4</Color>
     <Color x:Key="Secondary">#DFD8F7</Color>
     <Color x:Key="Tertiary">#2B0B98</Color>
     <Color x:Key="White">White</Color>
-    <Color x:Key="Black">Black</Color>
+    <Color x:Key="Black">#22252D</Color>
     <Color x:Key="Gray100">#E1E1E1</Color>
     <Color x:Key="Gray200">#C8C8C8</Color>
     <Color x:Key="Gray300">#ACACAC</Color>
